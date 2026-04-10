@@ -1,10 +1,9 @@
-# Market Alert System
+# Preface
 
-Push notifications for traders — live market snapshots and breaking news, straight to your phone. No app, no dashboard, no subscription. Just a ping when something moves.
+As a nervous newbie trader, I am always nervous about not missing the latest market updates. One thing I know, however, is that I check my phone pretty often. So I made these live market snapshots and breaking news, straight to your phone. no subscription, no searching around needed, and you don't even have to pay! Just a ping on your phone when something moves, and you have a choice whether to use AI to power it or not. I hope this will help people who are fresh to the financial service industry, like me! 
 
 Built on [ntfy.sh](https://ntfy.sh) (free push notifications), yfinance for prices, and public RSS feeds for headlines.
 
----
 
 ## What it sends
 
@@ -20,7 +19,7 @@ Built on [ntfy.sh](https://ntfy.sh) (free push notifications), yfinance for pric
 
 ## Two modes
 
-### `main_local.py` — free, no API key
+### `main_local.py` — this mode is free, no API key needed, and you get all the raw stats you need 
 
 Raw prices, notable moves, and headlines. Runs entirely on yfinance + RSS.
 
@@ -54,7 +53,7 @@ Headlines:
   • Netflix, big banks face moment of truth as Iran cease-fire rally meets earnings
 ```
 
-### `main.py` — Claude-powered analysis (~$0.01/day)
+### `main.py` — this mode has Claude APU -powered analysis (estimate is that you do have to pay~$0.01/day)
 
 Same data, but Claude writes the actual read. Prompt is tuned to sound like a desk trader, not a news anchor.
 
