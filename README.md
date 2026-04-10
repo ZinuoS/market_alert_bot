@@ -1,6 +1,6 @@
 # Preface
 
-As a nervous newbie trader, I am always nervous about not missing the latest market updates. One thing I know, however, is that I check my phone pretty often. So I made these live market snapshots and breaking news, straight to your phone. no subscription, no searching around needed, and you don't even have to pay! Just a ping on your phone when something moves, and you have a choice whether to use AI to power it or not. I hope this will help people who are fresh to the financial service industry, like me! 
+As a nervous newbie trader, I am always nervous about not missing the latest market updates. One thing I know, however, is that I check my phone pretty often. So I made these live market snapshots and breaking news, straight to your phone. no subscription, no searching around needed, and you don't even have to pay! Just a ping on your phone when something moves, and you have a choice whether to use LLM to power it or not. I hope this will help people who are fresh to the financial service industry, like me! 
 
 Built on [ntfy.sh](https://ntfy.sh) (free push notifications), yfinance for prices, and public RSS feeds for headlines.
 
