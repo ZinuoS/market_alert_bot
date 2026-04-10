@@ -53,7 +53,7 @@ Headlines:
   • Netflix, big banks face moment of truth as Iran cease-fire rally meets earnings
 ```
 
-### `main.py` — this mode has Claude APU -powered analysis (estimate is that you do have to pay~$0.01/day)
+### `main.py` — this mode has Claude API -powered analysis (estimate is that you do have to pay~$0.01/day)
 
 Same data, but Claude writes the actual read. Prompt is tuned to sound like a desk trader, not a news anchor.
 
