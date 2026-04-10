@@ -1,0 +1,13 @@
+# secrets — never commit
+.env
+
+# runtime state
+.paused
+data/
+logs/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
